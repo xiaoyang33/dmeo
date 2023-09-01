@@ -5,8 +5,6 @@ axios.post('/getData').then(res => {
   console.log(res)
 })
 console.log('123123')
-console.log(123123)
-console.log('bbbbb')
 </script>
 
 <template>
