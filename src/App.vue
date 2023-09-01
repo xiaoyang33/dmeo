@@ -12,6 +12,7 @@ console.log(6666)
 console.log(9999999)
 console.log('pppppoooooo')
 console.log('oppppppp')
+console.log('kkkkkkk')
 </script>
 
 <template>
