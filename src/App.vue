@@ -7,8 +7,11 @@ axios.post('/getData').then(res => {
 console.log('123123123123')
 console.log(123123)
 console.log(123123)
-console.log('object')
-console.log('kkkkkkkk')
+console.log('oooooo')
+console.log(6666)
+console.log(9999999)
+console.log('pppppoooooo')
+console.log('oppppppp')
 </script>
 
 <template>
