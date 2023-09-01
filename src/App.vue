@@ -11,10 +11,6 @@ console.log('oooooo')
 console.log(6666)
 console.log(9999999)
 console.log('pppppoooooo')
-console.log('oppppppp')
-console.log('kkkkkkk')
-console.log('123213123')
-console.log('ppppppp')
 </script>
 
 <template>
