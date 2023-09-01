@@ -11,6 +11,7 @@ console.log(888888)
 console.log(123123123)
 console.log(123123)
 console.log(123123)
+console.log(999999)
 </script>
 
 <template>
