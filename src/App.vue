@@ -18,6 +18,7 @@ console.log('llllllllll')
 console.log('lll222')
 console.log('l33333')
 console.log('l444')
+console.log('aaaaaa')
 </script>
 
 <template>
