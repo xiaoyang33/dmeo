@@ -14,6 +14,7 @@ console.log('pppppoooooo')
 console.log('oppppppp')
 console.log('kkkkkkk')
 console.log('123213123')
+console.log('llllllllll')
 </script>
 
 <template>
