@@ -16,6 +16,7 @@ console.log('kkkkkkk')
 console.log('123213123')
 console.log('llllllllll')
 console.log('lll222')
+console.log('l33333')
 </script>
 
 <template>
