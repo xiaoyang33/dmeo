@@ -4,6 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 axios.post('/getData').then(res => {
   console.log(res)
 })
+console.log('123123')
 </script>
 
 <template>
